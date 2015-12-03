@@ -22,10 +22,10 @@ public class Day1 {
 					currentFloor--;
 					down++;
 				}
-					
+
 			}
 		}
 		System.out.println("Santa went up " + up + " and went down " + down + " times!");
 		System.out.println("Santa's final floor is: " + currentFloor);
 	}
- }
+}
